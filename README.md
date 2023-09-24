@@ -23,7 +23,7 @@ I'm proficient in the following technologies and programming languages:
   
 - 🌱 I’m currently learning Google cloud and DSA
 - 👯 I’m looking to collaborate on projects on my area of capability
-- - 🔭 I’m currently working on a project for my university 🏫
+- 🔭 I’m currently working on a project for my university 🏫
 
 
 <!--
