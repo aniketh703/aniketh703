@@ -6,7 +6,7 @@ You can reach out to me via:
 - LinkedIn: https://www.linkedin.com/in/aniketh-vustepalle/
 - GitHub: https://github.com/aniketh703
 - Portfolio: https://anikethportfolio.framer.website/
-  - ⚡ Fun fact: I'm always available 🤩
+- ⚡ Fun fact: I'm always available 🤩
     
 ## Skills
 
