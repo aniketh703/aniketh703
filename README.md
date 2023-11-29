@@ -5,7 +5,7 @@ You can reach out to me via:
 - Email: anikethvustepalle03@gmail.com 
 - LinkedIn: https://www.linkedin.com/in/aniketh-vustepalle/
 - GitHub: https://github.com/aniketh703
-- Portfolio: https://anikethportfolio.framer.website/
+- Portfolio: [https://anikethportfolio.framer.website/](https://aniketh-vustepalle-portfolio.framer.ai/)
 - ⚡Fun fact: I'm always available 🤩
     
 ## Skills
