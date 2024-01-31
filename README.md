@@ -17,8 +17,8 @@ I'm proficient in the following technologies and programming languages:
 - React
 - React native
 - Figma
-- CSS
-- HTML
+- Web technologies
+- Data analysis 
 - Cloud
   
 - 🌱 I’m currently learning Google cloud and DSA
