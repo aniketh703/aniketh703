@@ -4,8 +4,8 @@ I'm a passionate software engineer with interested in web development, UI/UX des
 You can reach out to me via:
 - Email: anikethvustepalle03@gmail.com 
 - LinkedIn: https://www.linkedin.com/in/aniketh-vustepalle/
-- GitHub: https://github.com/aniketh703
 - Portfolio: [https://anikethportfolio.framer.website/](https://aniketh-vustepalle-portfolio.framer.ai/)
+- GitHub: https://github.com/aniketh703
 - ⚡Fun fact: I'm always available 🤩
     
 ## Skills
