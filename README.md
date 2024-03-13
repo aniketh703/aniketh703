@@ -1,6 +1,3 @@
-[Uploading An[InternetShortcut]
-URL=https://aniketh-vustepalle-portfolio.framer.ai/
-iketh Vustepalle portfolio.url…]()
 ### Hi there 👋 I'm Aniketh Vustepalle, and this is my Git repository.
 
 I'm a passionate software engineer with interested in web development, UI/UX design and Software engineering. I'm enthusiastic about solving complex problems and continuously learning new technologies.
@@ -25,8 +22,8 @@ I'm proficient in the following technologies and programming languages:
 - Data analysis 
 - Cloud
   
-- 🌱 I’m currently learning Google cloud and DSA
-- 👯 I’m looking to collaborate on projects on my area of capability
+- 🌱 I’m currently learning DSA
+- 👯 I’m looking to collaborate on projects on UI/UX and full stack development
 - 🔭 I’m currently working on a project for my university 🏫
 
 
