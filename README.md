@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Aniketh Vustepalle, and this is my Git repository.
+### Hi there 👋 I'm Vustepalle Aniketh, and this is my Git repository.
 
 I'm a passionate software engineer with interested in web development, UI/UX design and Software engineering. I'm enthusiastic about solving complex problems and continuously learning new technologies.
 
