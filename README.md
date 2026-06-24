@@ -53,17 +53,28 @@ Enterprise communication workflows integrated inside Salesforce.
 
 ---
 
-## 🌐 Connect
+<h3>🌐 Connect With Me</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/aniketh-vustepalle/">LinkedIn</a> •
-<a href="https://aniketh703.github.io/portfolio/">Portfolio</a> •
-<a href="mailto:anikethvustepalle03@gmail.com">Email</a>
+<a href="https://www.linkedin.com/in/aniketh-vustepalle/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+</a>
+
+<a href="https://github.com/aniketh703">
+<img src="https://skillicons.dev/icons?i=github" width="48"/>
+</a>
+
+<a href="https://aniketh703.github.io/portfolio/">
+<img src="https://img.icons8.com/fluency/48/domain.png" width="48"/>
+</a>
+
+<a href="mailto:anikethvustepalle03@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
+</a>
 </p>
 
----
 
-<hr>
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aniketh703&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
