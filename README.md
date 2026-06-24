@@ -71,11 +71,4 @@ I'm a passionate software engineer with a strong interest in **web development**
 
 ---
 
-### :writing_hand: Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ⭐ **If you like my work, consider giving a star to my repositories!**
