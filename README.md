@@ -3,10 +3,13 @@
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/aniketh-vustepalle/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://aniketh703.github.io/portfolio/">
-      <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Badge"/>
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Badge"/>
+    </a>
+    <a href="https://github.com/aniketh703">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
     </a>
     <a href="mailto:anikethvustepalle03@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
@@ -19,6 +22,8 @@
     Hey there, I'm Aniketh
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
+
+  ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;UI/UX+Enthusiast;Open+to+Collaborate!&center=true)
 </div>
 
 <div align="center">
@@ -29,7 +34,7 @@
 
 ### :man_technologist: About Me
 
-I'm a passionate software engineer with a strong interest in **web development**, **UI/UX design**, and **full-stack engineering** from India. I love solving complex problems and continuously learning new technologies.
+I'm a passionate software engineer with a strong interest in **web development**, **UI/UX design**, and **full-stack engineering**. I love solving complex problems and continuously learning new technologies.
 
 - :telescope: Currently working on a project for my university 🏫
 - :seedling: Currently learning **Data Structures & Algorithms**
@@ -63,6 +68,13 @@ I'm a passionate software engineer with a strong interest in **web development**
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aniketh703&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/aniketh703)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketh703&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### :writing_hand: Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
