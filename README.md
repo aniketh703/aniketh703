@@ -1,6 +1,6 @@
 # Hi, I'm Aniketh Vustepalle 👋
 
-### Associate UI/UX Designer @ PanTerra Networks
+## UI/UX Designer @ PanTerra Networks
 
 Designing intuitive digital experiences and building modern web & mobile applications.
 
