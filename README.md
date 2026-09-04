@@ -60,7 +60,7 @@ Enterprise communication workflows integrated inside Salesforce.
 <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
 </a>
 
-<a href="https://github.com/aniketh703">
+<a href="[https://github.com/aniketh703](https://aniketh.is-a.dev/)">
 <img src="https://skillicons.dev/icons?i=github" width="48"/>
 </a>
 
