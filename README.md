@@ -8,7 +8,7 @@ Designing intuitive digital experiences and building modern web & mobile applica
 
 ## 🚀 About Me
 
-* 🎨 Associate UI/UX Designer at PanTerra Networks
+* 🎨 UI/UX Designer at PanTerra Networks
 * 💻 Frontend Developer specializing in React, Next.js & React Native
 * 📚 Pursuing M.Tech while working full-time
 * 🔬 Published 2 research papers in AI & Telemedicine
